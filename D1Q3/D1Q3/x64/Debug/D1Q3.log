@@ -1,0 +1,4 @@
+﻿  D1Q3.cpp
+C:\Users\cevaz\source\repos\D1Q3\D1Q3\D1Q3.cpp(204,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\cevaz\source\repos\D1Q3\D1Q3\D1Q3.cpp(220,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  D1Q3.vcxproj -> C:\Users\cevaz\source\repos\D1Q3\x64\Debug\D1Q3.exe

@@ -1,0 +1,3 @@
+﻿  D2Q9.cpp
+C:\Users\cevaz\source\repos\D2Q9\D2Q9\D2Q9.cpp(584,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  D2Q9.vcxproj -> C:\Users\cevaz\source\repos\D2Q9\x64\Debug\D2Q9.exe
